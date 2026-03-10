@@ -18,3 +18,15 @@ build/
 
 # Logs
 *.log
+
+# Workspace siblings (ignore if present in this repo)
+OpenForge-Manifest/
+OpenForge-Projects/
+the_graveyard/
+TEMPLATES/
+chatgpt.md
+gemini afterchatgpt.md
+.github/
+.codacy/
+.gitignore
+README.md
